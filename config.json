@@ -1,0 +1,5 @@
+{
+  "max_password_age_days": 90,
+  "require_mfa": true,
+  "allowed_regions": ["us-east-1", "eu-west-1"]
+}
